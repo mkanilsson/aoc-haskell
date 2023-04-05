@@ -1,0 +1,605 @@
+Warning: haddock-interfaces: /usr/share/doc/haskell-split/html/split.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-split/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/stylish-haskell/html/stylish-haskell.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/stylish-haskell/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/hlint/html/hlint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/hlint/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-zlib/html/zlib.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-zlib/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-yaml/html/yaml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-yaml/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xml-conduit/html/xml-conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xml-conduit/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-witherable/html/witherable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-witherable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-void/html/void.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-void/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-vector/html/vector.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-vector/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-vector-algorithms/html/vector-algorithms.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-vector-algorithms/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-uuid/html/uuid.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-uuid/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-uuid-types/html/uuid-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-uuid-types/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-utf8-string/html/utf8-string.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-utf8-string/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unordered-containers/html/unordered-containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unordered-containers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unliftio/html/unliftio.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unliftio/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unix-compat/html/unix-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unix-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-uniplate/html/uniplate.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-uniplate/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unagi-chan/html/unagi-chan.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unagi-chan/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-typed-process/html/typed-process.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-typed-process/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-base/html/transformers-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-transformers-base/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-time-compat/html/time-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-time-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-these/html/these.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-these/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-extras/html/th-extras.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-extras/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-compat/html/th-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-text-short/html/text-short.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-text-short/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-temporary/html/temporary.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-temporary/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tasty/html/tasty.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tasty/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tasty-hunit/html/tasty-hunit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tasty-hunit/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tar/html/tar.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tar/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-syb/html/syb.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-syb/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-strict/html/strict.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-strict/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-strict-list/html/strict-list.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-strict-list/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-streaming-commons/html/streaming-commons.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-streaming-commons/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-stm-hamt/html/stm-hamt.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-stm-hamt/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-stm-containers/html/stm-containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-stm-containers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-src-exts/html/haskell-src-exts.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-src-exts/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-sqlite-simple/html/sqlite-simple.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-sqlite-simple/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-splitmix/html/splitmix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-splitmix/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-shake/html/shake.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-shake/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-semirings/html/semirings.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-semirings/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-semigroupoids/html/semigroupoids.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-semigroupoids/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-semialign/html/semialign.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-semialign/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-scientific/html/scientific.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-scientific/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-safe-exceptions/html/safe-exceptions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-safe-exceptions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-rope-utf16-splay/html/rope-utf16-splay.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-rope-utf16-splay/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-retrie/html/retrie.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-retrie/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-resourcet/html/resourcet.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-resourcet/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-resolv/html/resolv.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-resolv/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-tdfa/html/regex-tdfa.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-tdfa/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-reflection/html/reflection.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-reflection/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-refinery/html/refinery.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-refinery/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-random/html/random.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-random/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-random-shuffle/html/random-shuffle.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-random-shuffle/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-quickcheck/html/QuickCheck.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-quickcheck/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-psqueues/html/psqueues.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-psqueues/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-profunctors/html/profunctors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-profunctors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-primitive/html/primitive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-primitive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-primitive-unlifted/html/primitive-unlifted.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-primitive-unlifted/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-primitive-extras/html/primitive-extras.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-primitive-extras/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-prettyprinter/html/prettyprinter.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-prettyprinter/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-prettyprinter-ansi-terminal/html/prettyprinter-ansi-terminal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-prettyprinter-ansi-terminal/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-pretty-simple/html/pretty-simple.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pretty-simple/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-parsers/html/parsers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parsers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ormolu/html/ormolu.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ormolu/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-simple/html/optparse-simple.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-optparse-simple/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-optparse-applicative/html/optparse-applicative.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-optparse-applicative/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-opentelemetry/html/opentelemetry.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-opentelemetry/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-onetuple/html/OneTuple.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-onetuple/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-network/html/network.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-network-uri/html/network-uri.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network-uri/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-network-bsd/html/network-bsd.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network-bsd/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-multistate/html/multistate.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-multistate/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monoid-subclasses/html/monoid-subclasses.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monoid-subclasses/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mono-traversable/html/mono-traversable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mono-traversable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monadrandom/html/MonadRandom.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monadrandom/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-memo/html/monad-memo.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-memo/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-dijkstra/html/monad-dijkstra.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-dijkstra/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-monad-control/html/monad-control.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-monad-control/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mod/html/mod.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mod/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-megaparsec/html/megaparsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-megaparsec/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-lukko/html/lukko.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lukko/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-lucid/html/lucid.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lucid/html doesn't exist or isn't a directory
+There are problems in package lsp-1.4.0.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lsp/html/lsp.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lsp/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package lsp-types-1.4.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lsp-types/html/lsp-types.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lsp-types/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package lsp-test-0.14.0.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lsp-test/html/lsp-test.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lsp-test/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-logict/html/logict.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-logict/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-list-t/html/list-t.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-list-t/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-libyaml/html/libyaml.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-libyaml/html doesn't exist or isn't a directory
+There are problems in package lens-aeson-1.2.2:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-lens-aeson/html/lens-aeson.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-lens-aeson/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-language-server/html/haskell-language-server.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-language-server/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-kan-extensions/html/kan-extensions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-kan-extensions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-js-jquery/html/js-jquery.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-js-jquery/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-invariant/html/invariant.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-invariant/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-indexed-traversable-instances/html/indexed-traversable-instances.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-indexed-traversable-instances/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-implicit-hie/html/implicit-hie.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-implicit-hie/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-implicit-hie-cradle/html/implicit-hie-cradle.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-implicit-hie-cradle/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-http/html/HTTP.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-http/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hsyaml/html/HsYAML.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hsyaml/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hsyaml-aeson/html/HsYAML-aeson.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hsyaml-aeson/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hslogger/html/hslogger.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hslogger/html doesn't exist or isn't a directory
+There are problems in package hls-tactics-plugin-1.6.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-tactics-plugin/html/hls-tactics-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-tactics-plugin/html doesn't exist or isn't a directory
+  dependency "hyphenation-0.8.2-EY5PzorOcxzLOu342ce8gc" doesn't exist
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-stylish-haskell-plugin/html/hls-stylish-haskell-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-stylish-haskell-plugin/html doesn't exist or isn't a directory
+There are problems in package hls-splice-plugin-1.0.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-splice-plugin/html/hls-splice-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-splice-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-selection-range-plugin/html/hls-selection-range-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-selection-range-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-retrie-plugin/html/hls-retrie-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-retrie-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-rename-plugin/html/hls-rename-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-rename-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-refine-imports-plugin/html/hls-refine-imports-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-refine-imports-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-qualify-imported-names-plugin/html/hls-qualify-imported-names-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-qualify-imported-names-plugin/html doesn't exist or isn't a directory
+There are problems in package hls-pragmas-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-pragmas-plugin/html/hls-pragmas-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-pragmas-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-plugin-api-1.3.0.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-plugin-api/html/hls-plugin-api.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-plugin-api/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-ormolu-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-ormolu-plugin/html/hls-ormolu-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-ormolu-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-module-name-plugin/html/hls-module-name-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-module-name-plugin/html doesn't exist or isn't a directory
+There are problems in package hls-hlint-plugin-1.0.3.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-hlint-plugin/html/hls-hlint-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-hlint-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-haddock-comments-plugin/html/hls-haddock-comments-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-haddock-comments-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-graph/html/hls-graph.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-graph/html doesn't exist or isn't a directory
+There are problems in package hls-fourmolu-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-fourmolu-plugin/html/hls-fourmolu-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-fourmolu-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-floskell-plugin/html/hls-floskell-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-floskell-plugin/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hls-explicit-imports-plugin/html/hls-explicit-imports-plugin.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hls-explicit-imports-plugin/html doesn't exist or isn't a directory
+There are problems in package hls-eval-plugin-1.2.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-eval-plugin/html/hls-eval-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-eval-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-class-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-class-plugin/html/hls-class-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-class-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-call-hierarchy-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-call-hierarchy-plugin/html/hls-call-hierarchy-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-call-hierarchy-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-brittany-plugin-1.0.2.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-brittany-plugin/html/hls-brittany-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-brittany-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+There are problems in package hls-alternate-number-format-plugin-1.0.1.0:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-hls-alternate-number-format-plugin/html/hls-alternate-number-format-plugin.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-hls-alternate-number-format-plugin/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-hiedb/html/hiedb.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hiedb/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hie-bios/html/hie-bios.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hie-bios/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-heapsize/html/heapsize.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-heapsize/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hashtables/html/hashtables.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hashtables/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hashable/html/hashable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hashable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-haddock-library/html/haddock-library.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-haddock-library/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hackage-security/html/hackage-security.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hackage-security/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-glob/html/Glob.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-glob/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-githash/html/githash.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-githash/html doesn't exist or isn't a directory
+Warning: include-dirs: /usr/include/gobject-introspection-1.0 doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-gi/html/haskell-gi.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-gi/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-gi-cairo/html/gi-cairo.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-gi-cairo/html doesn't exist or isn't a directory
+There are problems in package ghcide-1.6.0.1:
+  Warning: haddock-interfaces: /usr/share/doc/haskell-ghcide/html/ghcide.haddock doesn't exist or isn't a file
+  Warning: haddock-html: /usr/share/doc/haskell-ghcide/html doesn't exist or isn't a directory
+  dependency "lens-5.2-EY7FApQf2CbaRvufNP6xh" doesn't exist
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-source-gen/html/ghc-source-gen.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-source-gen/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-lib-parser-ex/html/ghc-lib-parser-ex.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-lib-parser-ex/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-exactprint/html/ghc-exactprint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-exactprint/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-check/html/ghc-check.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-check/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-generic-lens/html/generic-lens.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-generic-lens/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-fuzzy/html/fuzzy.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-fuzzy/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-free/html/free.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-free/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-fourmolu/html/fourmolu.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-fourmolu/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-foldl/html/foldl.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-foldl/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-focus/html/focus.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-focus/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-floskell/html/floskell.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-floskell/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-fingertree/html/fingertree.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-fingertree/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-filepattern/html/filepattern.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-filepattern/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-filemanip/html/filemanip.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-filemanip/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-extra/html/extra.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-extra/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-edit-distance/html/edit-distance.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-edit-distance/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-dlist/html/dlist.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dlist/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-distributive/html/distributive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-distributive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-direct-sqlite/html/direct-sqlite.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-direct-sqlite/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-diff/html/Diff.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-diff/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-deque/html/deque.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-deque/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-dependent-sum/html/dependent-sum.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dependent-sum/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-dependent-sum-template/html/dependent-sum-template.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dependent-sum-template/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-dependent-map/html/dependent-map.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-dependent-map/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-deferred-folds/html/deferred-folds.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-deferred-folds/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-tree-print/html/data-tree-print.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-tree-print/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-fix/html/data-fix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-fix/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default/html/data-default.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-dlist/html/data-default-instances-dlist.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-dlist/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-array-byte/html/data-array-byte.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-array-byte/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptohash-sha256/html/cryptohash-sha256.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptohash-sha256/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptohash-sha1/html/cryptohash-sha1.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptohash-sha1/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cryptohash-md5/html/cryptohash-md5.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cryptohash-md5/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-constraints/html/constraints.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-constraints/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-constraints-extras/html/constraints-extras.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-constraints-extras/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-conduit/html/conduit.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-conduit/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-conduit-parse/html/conduit-parse.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-conduit-parse/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-conduit-extra/html/conduit-extra.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-conduit-extra/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-comonad/html/comonad.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-comonad/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-colour/html/colour.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-colour/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-clock/html/clock.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-clock/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-charset/html/charset.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-charset/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-case-insensitive/html/case-insensitive.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-case-insensitive/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-call-stack/html/call-stack.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-call-stack/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-bytestring-encoding/html/bytestring-encoding.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-bytestring-encoding/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-butcher/html/butcher.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-butcher/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-brittany/html/brittany.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-brittany/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-textual/html/blaze-textual.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-textual/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-markup/html/blaze-markup.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-markup/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-html/html/blaze-html.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-html/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-bitvec/html/bitvec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-bitvec/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-bifunctors/html/bifunctors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-bifunctors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base64-bytestring/html/base64-bytestring.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base64-bytestring/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base16-bytestring/html/base16-bytestring.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base16-bytestring/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-orphans/html/base-orphans.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-orphans/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat-batteries/html/base-compat-batteries.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-compat-batteries/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec/html/attoparsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-attoparsec/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-attoparsec/html/attoparsec.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-attoparsec/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-atomic-primops/html/atomic-primops.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-atomic-primops/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-async/html/async.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-async/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-assoc/html/assoc.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-assoc/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-apply-refact/html/apply-refact.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-apply-refact/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-wl-pprint/html/ansi-wl-pprint.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ansi-wl-pprint/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ansi-terminal/html/ansi-terminal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ansi-terminal/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-algebraic-graphs/html/algebraic-graphs.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-algebraic-graphs/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-aeson/html/aeson.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-aeson/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-aeson-pretty/html/aeson-pretty.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-aeson-pretty/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-adjunctions/html/adjunctions.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-adjunctions/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unsafe/html/unsafe.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unsafe/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-pretty-show/html/pretty-show.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-pretty-show/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-microlens/html/microlens.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-microlens/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-microlens-th/html/microlens-th.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-microlens-th/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-lexer/html/haskell-lexer.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-lexer/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-indexed-profunctors/html/indexed-profunctors.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-indexed-profunctors/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-gi-base/html/haskell-gi-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-gi-base/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-generic-lens-core/html/generic-lens-core.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-generic-lens-core/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-czipwith/html/czipwith.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-czipwith/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cereal/html/cereal.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cereal/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-wcwidth/html/wcwidth.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-wcwidth/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-vector-stream/html/vector-stream.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-vector-stream/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unbounded-delays/html/unbounded-delays.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unbounded-delays/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-some/html/some.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-some/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hie-compat/html/hie-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hie-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-generically/html/generically.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-generically/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-commutative-semigroups/html/commutative-semigroups.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-commutative-semigroups/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-th-abstraction/html/th-abstraction.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-th-abstraction/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-gitrev/html/gitrev.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-gitrev/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-trace-events/html/ghc-trace-events.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-trace-events/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-entropy/html/entropy.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-entropy/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-compat/html/base-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-type-equality/html/type-equality.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-type-equality/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-terminal-size/html/terminal-size.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-terminal-size/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-tagged/html/tagged.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-tagged/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-statevar/html/StateVar.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-statevar/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-sorted-list/html/sorted-list.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-sorted-list/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-refact/html/refact.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-refact/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-primes/html/primes.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-primes/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-polyparse/html/polyparse.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-polyparse/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-parser-combinators/html/parser-combinators.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parser-combinators/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-parallel/html/parallel.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-parallel/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-only/html/Only.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-only/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-old-locale/html/old-locale.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-old-locale/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-network-info/html/network-info.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-network-info/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-mmorph/html/mmorph.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-mmorph/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-js-flot/html/js-flot.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-js-flot/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-js-dgtable/html/js-dgtable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-js-dgtable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-indexed-traversable/html/indexed-traversable.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-indexed-traversable/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-hscolour/html/hscolour.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-hscolour/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-heaps/html/heaps.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-heaps/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-paths/html/ghc-paths.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-paths/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-lib-parser/html/ghc-lib-parser.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-lib-parser/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-api-compat/html/ghc-api-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-api-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-file-embed/html/file-embed.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-file-embed/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-erf/html/erf.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-erf/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-old-locale/html/data-default-instances-old-locale.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-old-locale/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-instances-containers/html/data-default-instances-containers.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-instances-containers/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cpphs/html/cpphs.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cpphs/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-contravariant/html/contravariant.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-contravariant/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-cmdargs/html/cmdargs.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-cmdargs/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-base-prelude/html/base-prelude.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-base-prelude/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-transformers-compat/html/transformers-compat.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-transformers-compat/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-gi-overloading/html/haskell-gi-overloading.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-gi-overloading/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xdg-basedir/html/xdg-basedir.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xdg-basedir/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-safe/html/safe.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-safe/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-xml-types/html/xml-types.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-xml-types/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-data-default-class/html/data-default-class.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-data-default-class/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-blaze-builder/html/blaze-builder.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-blaze-builder/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-integer-logarithms/html/integer-logarithms.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-integer-logarithms/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-unliftio-core/html/unliftio-core.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-unliftio-core/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-base/html/regex-base.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-base/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-regex-posix/html/regex-posix.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-regex-posix/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-echo/html/echo.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-echo/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ed25519/html/ed25519.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ed25519/html doesn't exist or isn't a directory
+Warning: haddock-interfaces: /usr/share/doc/haskell-ghc-bignum-orphans/html/ghc-bignum-orphans.haddock doesn't exist or isn't a file
+Warning: haddock-html: /usr/share/doc/haskell-ghc-bignum-orphans/html doesn't exist or isn't a directory
+
+The following packages are broken, either because they have a problem
+listed above, or because they depend on a broken package.
+lsp-1.4.0.0
+lsp-types-1.4.0.1
+lsp-test-0.14.0.2
+lens-aeson-1.2.2
+hls-tactics-plugin-1.6.1.0
+hls-splice-plugin-1.0.1.0
+hls-pragmas-plugin-1.0.2.0
+hls-plugin-api-1.3.0.0
+hls-ormolu-plugin-1.0.2.0
+hls-hlint-plugin-1.0.3.0
+hls-fourmolu-plugin-1.0.2.0
+hls-eval-plugin-1.2.1.0
+hls-class-plugin-1.0.2.0
+hls-call-hierarchy-plugin-1.0.2.0
+hls-brittany-plugin-1.0.2.0
+hls-alternate-number-format-plugin-1.0.1.0
+ghcide-1.6.0.1
+haskell-language-server-1.6.1.1
+hls-stylish-haskell-plugin-1.0.1.0
+hls-selection-range-plugin-1.0.0.0
+hls-retrie-plugin-1.0.2.0
+hls-rename-plugin-1.0.0.1
+hls-refine-imports-plugin-1.0.1.0
+hls-qualify-imported-names-plugin-1.0.1.0
+hls-module-name-plugin-1.0.1.0
+hls-haddock-comments-plugin-1.0.1.0
+hls-floskell-plugin-1.0.1.0
+hls-explicit-imports-plugin-1.0.2.0
